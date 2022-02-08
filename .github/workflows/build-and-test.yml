@@ -26,3 +26,4 @@ jobs:
 
       - name: node command dist 
         run: node dist/app.js
+        
